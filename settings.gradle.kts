@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "My Library"
 include(":app")
- 
+include(":webkit")
